@@ -1,0 +1,12 @@
+Wagon
+2.0
+SUV
+2.0
+Sedan
+1.0
+Ute
+1.5
+Coupe
+3.0
+Limousine
+3.5
